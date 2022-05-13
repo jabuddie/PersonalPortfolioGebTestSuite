@@ -1,0 +1,5 @@
+build/**
+.gradle/
+build/tmp/resource/**
+.idea/**
+csat-functional-tests.iml
